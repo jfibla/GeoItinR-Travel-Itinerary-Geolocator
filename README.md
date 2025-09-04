@@ -194,9 +194,9 @@ https://github.com/jfibla/GeoItinR-Travel-Itinerary-Geolocator/blob/main/user_gu
 <br>- 🇪🇸 [Descargar Guía de Usuario (ES)](https://github.com/jfibla/GeoItinR-Travel-Itinerary-Geolocator/blob/main/user_guides/Travel_Itinerary_App_UserGuide_ES.pdf)
 
 ## User Guides (PDF)
-- [English](user_guides/Travel_Itinerary_App_UserGuide_EN.pdf)
-- [Català](user_guides/Travel_Itinerary_App_UserGuide_CA.pdf)
-- [Español](user_guides/Travel_Itinerary_App_UserGuide_ES.pdf)
+- [English](user_guides/Travel_Itinerary_App_UserGuide_EN.pdf?raw=1)
+- [Català](user_guides/Travel_Itinerary_App_UserGuide_CA.pdf?raw=1)
+- [Español](user_guides/Travel_Itinerary_App_UserGuide_ES.pdf?raw=1)
   
   <h2>License</h2>
   <p>This project is licensed under the [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0) license.</p>
