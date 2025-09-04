@@ -92,7 +92,6 @@ shiny::runApp("app.R")
     </ul>
     <p>The app also accepts multiple sheet names (e.g., <em>Places/Lugares/Llocs</em>, <em>Stages/Etapas/Etapes</em>, etc.).</p>
   </details>
-<img width="597" height="485" alt="image" src="https://github.com/user-attachments/assets/ab7210cd-043a-4ba2-970a-be9ad3a435e9" />
 
   <h2>How to use</h2>
   <ol>
@@ -111,6 +110,9 @@ shiny::runApp("app.R")
     </li>
     <li>Export: <strong>Download Excel</strong> with harmonized sheets.</li>
   </ol>
+
+<h2>Workflow</h2>
+<img width="597" height="504" alt="image" src="https://github.com/user-attachments/assets/1716c6de-baa3-46b3-ae86-b1e71cfc99f3" />
 
   <h2>Editing tools</h2>
   <p>Enable <em>Allow edit</em> to unlock the editor sidebar and tables:</p>
