@@ -156,6 +156,7 @@ shiny::runApp("app.R")
   <ul>
     <li><code>app.R</code> — the Shiny app.</li>
     <li><code>www/</code> — optional example/input Excel files (read on load and selectable in the UI).</li>
+    <li><code>USER_GUIDES/</code> — Multilingual user guides.</li>
   </ul>
 
   <h2>Privacy, terms &amp; rate limits</h2>
