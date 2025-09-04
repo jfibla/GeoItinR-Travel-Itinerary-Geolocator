@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>GeoItinR — Travel Itinerary Geolocator (Shiny)</title>
+  
 </head>
 <body>
   <h1>GeoItinR — Travel Itinerary Geolocator</h1>
