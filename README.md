@@ -92,6 +92,7 @@ shiny::runApp("app.R")
     </ul>
     <p>The app also accepts multiple sheet names (e.g., <em>Places/Lugares/Llocs</em>, <em>Stages/Etapas/Etapes</em>, etc.).</p>
   </details>
+<img width="597" height="485" alt="image" src="https://github.com/user-attachments/assets/ab7210cd-043a-4ba2-970a-be9ad3a435e9" />
 
   <h2>How to use</h2>
   <ol>
