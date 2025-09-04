@@ -185,12 +185,16 @@ This server is meant for functionality testing and demos. Performance and availa
 
   <h2>Acknowledgements</h2>
   <p>Built with R, Shiny, Leaflet, OpenStreetMap/Nominatim, OSRM, and Wikipedia/Wikidata. Thanks to their communities.</p>
+
 ---
+
 ## User Guides (PDF)
 - [English](user_guides/Travel_Itinerary_App_UserGuide_EN.pdf?raw=1)
 - [Català](user_guides/Travel_Itinerary_App_UserGuide_CA.pdf?raw=1)
 - [Español](user_guides/Travel_Itinerary_App_UserGuide_ES.pdf?raw=1)
-  
+
+---
+
   <h2>License</h2>
   <p>This project is licensed under the [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0) license.</p>
 </body>
