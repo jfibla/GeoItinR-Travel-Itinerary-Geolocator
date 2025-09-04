@@ -112,7 +112,7 @@ shiny::runApp("app.R")
   </ol>
 
 <h2>Workflow</h2>
-<img width="597" height="504" alt="image" src="https://github.com/user-attachments/assets/1716c6de-baa3-46b3-ae86-b1e71cfc99f3" />
+<img width="595" height="504" alt="image" src="https://github.com/user-attachments/assets/e0660518-6006-42a0-aef0-1b69da395e79" />
 
   <h2>Editing tools</h2>
   <p>Enable <em>Allow edit</em> to unlock the editor sidebar and tables:</p>
