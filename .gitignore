@@ -1,0 +1,20 @@
+cat > .gitignore << 'EOF'
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+.Rapp.history
+.Renviron
+.Rprofile
+.Rproj*
+.DS_Store
+*.Rds
+*.rda
+tmp/
+temp/
+*.sqlite
+inst/doc/
+renv/library/
+packrat/
+www/*.psd
+EOF
