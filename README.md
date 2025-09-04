@@ -186,17 +186,11 @@ https://github.com/jfibla/GeoItinR-Travel-Itinerary-Geolocator/blob/main/user_gu
 
   <h2>Acknowledgements</h2>
   <p>Built with R, Shiny, Leaflet, OpenStreetMap/Nominatim, OSRM, and Wikipedia/Wikidata. Thanks to their communities.</p>
-
-<h2>📄 User guide</h2>
-<br>- 🇬🇧 [Download User Guide (EN)](https://github.com/jfibla/GeoItinR-Travel-Itinerary-Geolocator/blob/main/user_guides/Travel_Itinerary_App_UserGuide_EN.pdf)
-<br>-  <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/0bbcc085-e250-4190-b7fa-45d1642cf4b2" />
-  [Descarregar Guia d'Usuari (CA)](https://github.com/jfibla/GeoItinR-Travel-Itinerary-Geolocator/blob/main/user_guides/Travel_Itinerary_App_UserGuide_CA.pdf)
-<br>- 🇪🇸 [Descargar Guía de Usuario (ES)](https://github.com/jfibla/GeoItinR-Travel-Itinerary-Geolocator/blob/main/user_guides/Travel_Itinerary_App_UserGuide_ES.pdf)
-
+---
 ## User Guides (PDF)
-- [English](user_guides/Travel_Itinerary_App_UserGuide_EN.pdf?raw=1)
-- [Català](user_guides/Travel_Itinerary_App_UserGuide_CA.pdf?raw=1)
-- [Español](user_guides/Travel_Itinerary_App_UserGuide_ES.pdf?raw=1)
+- 🇬🇧 [English](user_guides/Travel_Itinerary_App_UserGuide_EN.pdf?raw=1)
+-<br>-  <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/0bbcc085-e250-4190-b7fa-45d1642cf4b2" /> [Català](user_guides/Travel_Itinerary_App_UserGuide_CA.pdf?raw=1)
+-  🇪🇸 [Español](user_guides/Travel_Itinerary_App_UserGuide_ES.pdf?raw=1)
   
   <h2>License</h2>
   <p>This project is licensed under the [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0) license.</p>
