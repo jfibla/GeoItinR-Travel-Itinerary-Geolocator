@@ -18,3 +18,5 @@ renv/library/
 packrat/
 www/*.psd
 EOF
+
+.DS_Store
