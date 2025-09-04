@@ -182,16 +182,16 @@ You can try an interactive instance of **GeoItinR** here:
 This server is meant for functionality testing and demos. Performance and availability may vary depending on server load. The demo uses the app’s default upload cap (configured in the code) and includes example datasets to explore the workflow quickly.
 
 ---
-
+https://github.com/jfibla/GeoItinR-Travel-Itinerary-Geolocator/blob/main/user_guides/Travel_Itinerary_App_UserGuide_CA.pdf
 
   <h2>Acknowledgements</h2>
   <p>Built with R, Shiny, Leaflet, OpenStreetMap/Nominatim, OSRM, and Wikipedia/Wikidata. Thanks to their communities.</p>
 
 <h2>📄 User guide</h2>
-<br>- 🇬🇧 [Download User Guide (EN)](https://github.com/jfibla/GeoItinR-Travel-Itinerary-Geolocator/raw/main/user_guide/Travel_Itinerary_App_UserGuide_EN.pdf)
+<br>- 🇬🇧 [Download User Guide (EN)](https://github.com/jfibla/GeoItinR-Travel-Itinerary-Geolocator/blob/main/user_guides/Travel_Itinerary_App_UserGuide_EN.pdf)
 <br>-  <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/0bbcc085-e250-4190-b7fa-45d1642cf4b2" />
-  [Descarregar Guia d'Usuari (CA)](https://github.com/jfibla/GeoItinR-Travel-Itinerary-Geolocator/raw/main/user_guide/Travel_Itinerary_App_UserGuide_CA.pdf)
-<br>- 🇪🇸 [Descargar Guía de Usuario (ES)](https://github.com/jfibla/GeoItinR-Travel-Itinerary-Geolocator/raw/main/user_guide/Travel_Itinerary_App_UserGuide_ES.pdf)
+  [Descarregar Guia d'Usuari (CA)](https://github.com/jfibla/GeoItinR-Travel-Itinerary-Geolocator/blob/main/user_guides/Travel_Itinerary_App_UserGuide_CA.pdf)
+<br>- 🇪🇸 [Descargar Guía de Usuario (ES)](https://github.com/jfibla/GeoItinR-Travel-Itinerary-Geolocator/blob/main/user_guides/Travel_Itinerary_App_UserGuide_ES.pdf)
 
   <h2>License</h2>
   <p>This project is licensed under the [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0) license.</p>
