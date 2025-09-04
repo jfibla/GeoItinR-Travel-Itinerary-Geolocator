@@ -14,6 +14,7 @@
     editing tools to complete missing coordinates and Wikipedia links for cities, hotels and
     places of interest.
   </p>
+![screencapture-app](https://github.com/user-attachments/assets/4474fa77-6ce8-4a0f-b0d7-f2ccb5a737bb)
 
   <h2>Why it&apos;s useful</h2>
   <ul>
